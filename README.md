@@ -1,2 +1,2 @@
 # ImageProcessingCode
-Code used for extracting images from DEA on the NCI
+Code used for general image processing
